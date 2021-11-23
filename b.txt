@@ -1,1 +1,4 @@
-new file added by upatel via feature3
+ 
+b.txt is added
+second line is added in b.txt
+ 

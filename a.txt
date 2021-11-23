@@ -1,0 +1,2 @@
+a.txt is created
+second line is added in a.txt
